@@ -1,0 +1,18 @@
+.header{
+ 
+    display: flex;
+    height: 10vh;
+    padding: 10px 10px 10px 10px;
+    background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+    align-items: center;
+
+}
+.header img{
+    size: 100px;
+    height: 40px;
+    margin-right: 9px;
+    margin-left: 20px;
+}
+.header h3{
+    color: white;
+}
